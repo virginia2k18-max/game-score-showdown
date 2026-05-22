@@ -1,0 +1,141 @@
+{
+  "lastUpdated": "2026-05-21T16:00:00Z",
+  "players": {
+    "you": {
+      "name": "Heavyd814life",
+      "accent": "cyan",
+      "main": {
+        "open_world": "LEGO Batman: Legacy of the Dark Knight",
+        "jrpg": "Trails in the Sky Second Chapter",
+        "debut": "Deer & Boy",
+        "first_person": "Coffee Talk Tokyo",
+        "platformer": "Reanimal"
+      },
+      "alternates": ["Norse: Oath of Blood"]
+    },
+    "friend": {
+      "name": "Nonamesleft",
+      "accent": "amber",
+      "main": {
+        "open_world": "The Blood of Dawnwalker",
+        "jrpg": "Trails in the Sky Second Chapter",
+        "debut": "Aether & Iron",
+        "first_person": "Dimhaven",
+        "platformer": "The Eternal Life of Goldman"
+      },
+      "alternates": ["Neverway"]
+    }
+  },
+  "scores": {
+    "LEGO Batman: Legacy of the Dark Knight": {
+      "opencritic_id": 19919,
+      "score": 86,
+      "status": "released",
+      "release_date": "2026-05-22",
+      "url": "https://opencritic.com/game/19919/lego-batman-legacy-of-the-dark-knight",
+      "review_count": 41,
+      "recommend_pct": 98,
+      "note": null
+    },
+    "Trails in the Sky Second Chapter": {
+      "opencritic_id": null,
+      "score": null,
+      "status": "unreleased",
+      "release_date": "2026-09-17",
+      "url": null,
+      "review_count": null,
+      "recommend_pct": null,
+      "note": null
+    },
+    "Deer & Boy": {
+      "opencritic_id": null,
+      "score": null,
+      "status": "unreleased",
+      "release_date": "2026",
+      "url": null,
+      "review_count": null,
+      "recommend_pct": null,
+      "note": null
+    },
+    "Coffee Talk Tokyo": {
+      "opencritic_id": 20625,
+      "score": 83,
+      "status": "released",
+      "release_date": "2026-05-21",
+      "url": "https://opencritic.com/game/20625/coffee-talk-tokyo",
+      "review_count": 13,
+      "recommend_pct": 100,
+      "note": null
+    },
+    "Reanimal": {
+      "opencritic_id": 19727,
+      "score": 81,
+      "status": "released",
+      "release_date": "2026-02-13",
+      "url": "https://opencritic.com/game/19727/reanimal",
+      "review_count": 144,
+      "recommend_pct": 83,
+      "note": null
+    },
+    "Norse: Oath of Blood": {
+      "opencritic_id": 20118,
+      "score": null,
+      "status": "released_no_score",
+      "release_date": "2026-02-17",
+      "url": "https://opencritic.com/game/20118/norse-oath-of-blood",
+      "review_count": 11,
+      "recommend_pct": null,
+      "note": "Released — OpenCritic Top Critic Average still pending; needs more Top Critic outlet reviews to aggregate"
+    },
+    "The Blood of Dawnwalker": {
+      "opencritic_id": null,
+      "score": null,
+      "status": "unreleased",
+      "release_date": "2026-09-03",
+      "url": null,
+      "review_count": null,
+      "recommend_pct": null,
+      "note": null
+    },
+    "Aether & Iron": {
+      "opencritic_id": 20321,
+      "score": 81,
+      "status": "released",
+      "release_date": "2026-03-30",
+      "url": "https://opencritic.com/game/20321/aether-iron",
+      "review_count": 18,
+      "recommend_pct": 89,
+      "note": null
+    },
+    "Dimhaven": {
+      "opencritic_id": null,
+      "score": null,
+      "status": "unreleased",
+      "release_date": "2026-06",
+      "url": null,
+      "review_count": null,
+      "recommend_pct": null,
+      "note": null
+    },
+    "The Eternal Life of Goldman": {
+      "opencritic_id": null,
+      "score": null,
+      "status": "unreleased",
+      "release_date": "2026",
+      "url": null,
+      "review_count": null,
+      "recommend_pct": null,
+      "note": null
+    },
+    "Neverway": {
+      "opencritic_id": null,
+      "score": null,
+      "status": "unreleased",
+      "release_date": "2026-10",
+      "url": null,
+      "review_count": null,
+      "recommend_pct": null,
+      "note": null
+    }
+  }
+}
