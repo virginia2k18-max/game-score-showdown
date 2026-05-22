@@ -1,0 +1,52 @@
+name: Update OpenCritic Scores
+
+# Two schedules:
+#  - Weekly: every Sunday at 12:00 UTC (8am EST). Always runs the full update.
+#  - Daily: every day at 20:00 UTC (3pm EST / 4pm EDT). Only updates if a game
+#    is in its release window or still has a pending Top Critic Average.
+# Plus manual triggers via workflow_dispatch.
+on:
+  schedule:
+    - cron: "0 12 * * 0"  # weekly
+    - cron: "0 20 * * *"  # daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to commit and push scores.json back
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Decide whether to update
+        id: check
+        env:
+          GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
+        run: node scripts/check-release-events.mjs
+
+      - name: Run update script
+        if: steps.check.outputs.should_update == 'true'
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: node scripts/update-scores.mjs
+
+      - name: Commit and push if scores changed
+        if: steps.check.outputs.should_update == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scores.json
+          if git diff --staged --quiet; then
+            echo "No score changes — nothing to commit."
+          else
+            git commit -m "Auto-update OpenCritic scores ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Pushed updated scores.json"
+          fi
