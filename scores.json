@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T23:48:28.896Z",
+  "lastUpdated": "2026-05-23T22:39:41.260Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -33,11 +33,11 @@
   "scores": {
     "LEGO Batman: Legacy of the Dark Knight": {
       "opencritic_id": 19919,
-      "score": 86,
+      "score": 85,
       "status": "released",
       "release_date": "2026-05-22",
       "url": "https://opencritic.com/game/19919/lego-batman-legacy-of-the-dark-knight",
-      "review_count": 34,
+      "review_count": 35,
       "recommend_pct": 96,
       "note": null
     },
