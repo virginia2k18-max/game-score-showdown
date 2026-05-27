@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T23:50:28.572Z",
+  "lastUpdated": "2026-05-27T23:48:43.072Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -63,11 +63,11 @@
     },
     "Coffee Talk Tokyo": {
       "opencritic_id": 20625,
-      "score": 80,
+      "score": 81,
       "status": "released",
       "release_date": "2026-05-21",
       "url": "https://opencritic.com/game/20625/coffee-talk-tokyo",
-      "review_count": 11,
+      "review_count": 12,
       "recommend_pct": 96,
       "note": null
     },
