@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T23:48:43.072Z",
+  "lastUpdated": "2026-05-31T15:57:30.787Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -37,7 +37,7 @@
       "status": "released",
       "release_date": "2026-05-22",
       "url": "https://opencritic.com/game/19919/lego-batman-legacy-of-the-dark-knight",
-      "review_count": 37,
+      "review_count": 41,
       "recommend_pct": 97,
       "note": null
     },
@@ -67,18 +67,18 @@
       "status": "released",
       "release_date": "2026-05-21",
       "url": "https://opencritic.com/game/20625/coffee-talk-tokyo",
-      "review_count": 12,
-      "recommend_pct": 96,
+      "review_count": 13,
+      "recommend_pct": 86,
       "note": null
     },
     "Reanimal": {
       "opencritic_id": 19727,
-      "score": 81,
+      "score": 80,
       "status": "released",
       "release_date": "2026-02-13",
       "url": "https://opencritic.com/game/19727/reanimal",
-      "review_count": 72,
-      "recommend_pct": 83,
+      "review_count": 73,
+      "recommend_pct": 82,
       "note": null
     },
     "Norse: Oath of Blood": {
@@ -88,7 +88,7 @@
       "release_date": "2026-02-17",
       "url": "https://opencritic.com/game/20118/norse-oath-of-blood",
       "review_count": 2,
-      "recommend_pct": 82,
+      "recommend_pct": 75,
       "note": "Released — OpenCritic Top Critic Average still pending; needs more Top Critic outlet reviews to aggregate"
     },
     "The Blood of Dawnwalker": {
