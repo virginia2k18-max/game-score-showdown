@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T15:57:30.787Z",
+  "lastUpdated": "2026-06-07T16:55:05.810Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -33,12 +33,12 @@
   "scores": {
     "LEGO Batman: Legacy of the Dark Knight": {
       "opencritic_id": 19919,
-      "score": 85,
+      "score": 84,
       "status": "released",
       "release_date": "2026-05-22",
       "url": "https://opencritic.com/game/19919/lego-batman-legacy-of-the-dark-knight",
-      "review_count": 41,
-      "recommend_pct": 97,
+      "review_count": 55,
+      "recommend_pct": 93,
       "note": null
     },
     "Trails in the Sky Second Chapter": {
@@ -63,12 +63,12 @@
     },
     "Coffee Talk Tokyo": {
       "opencritic_id": 20625,
-      "score": 81,
+      "score": 83,
       "status": "released",
       "release_date": "2026-05-21",
       "url": "https://opencritic.com/game/20625/coffee-talk-tokyo",
-      "review_count": 13,
-      "recommend_pct": 86,
+      "review_count": 15,
+      "recommend_pct": 88,
       "note": null
     },
     "Reanimal": {
