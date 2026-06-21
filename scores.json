@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T17:01:40.447Z",
+  "lastUpdated": "2026-06-21T17:12:19.344Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -37,7 +37,7 @@
       "status": "released",
       "release_date": "2026-05-22",
       "url": "https://opencritic.com/game/19919/lego-batman-legacy-of-the-dark-knight",
-      "review_count": 57,
+      "review_count": 60,
       "recommend_pct": 92,
       "note": null
     },
@@ -63,12 +63,12 @@
     },
     "Coffee Talk Tokyo": {
       "opencritic_id": 20625,
-      "score": 83,
+      "score": 82,
       "status": "released",
       "release_date": "2026-05-21",
       "url": "https://opencritic.com/game/20625/coffee-talk-tokyo",
-      "review_count": 15,
-      "recommend_pct": 89,
+      "review_count": 17,
+      "recommend_pct": 88,
       "note": null
     },
     "Reanimal": {
