@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T17:12:19.344Z",
+  "lastUpdated": "2026-06-28T13:56:44.144Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -52,13 +52,13 @@
       "note": null
     },
     "Deer & Boy": {
-      "opencritic_id": null,
-      "score": null,
-      "status": "unreleased",
-      "release_date": "2026",
-      "url": null,
-      "review_count": null,
-      "recommend_pct": null,
+      "opencritic_id": 20877,
+      "score": 81,
+      "status": "released",
+      "release_date": "2026-06-23",
+      "url": "https://opencritic.com/game/20877/deer-boy",
+      "review_count": 5,
+      "recommend_pct": 62,
       "note": null
     },
     "Coffee Talk Tokyo": {
@@ -68,7 +68,7 @@
       "release_date": "2026-05-21",
       "url": "https://opencritic.com/game/20625/coffee-talk-tokyo",
       "review_count": 17,
-      "recommend_pct": 88,
+      "recommend_pct": 83,
       "note": null
     },
     "Reanimal": {
