@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T20:59:42.308Z",
+  "lastUpdated": "2026-07-05T13:49:16.679Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -53,22 +53,22 @@
     },
     "Deer & Boy": {
       "opencritic_id": 20877,
-      "score": 81,
+      "score": 78,
       "status": "released",
       "release_date": "2026-06-23",
       "url": "https://opencritic.com/game/20877/deer-boy",
-      "review_count": 5,
-      "recommend_pct": 62,
+      "review_count": 11,
+      "recommend_pct": 67,
       "note": null
     },
     "Coffee Talk Tokyo": {
       "opencritic_id": 20625,
-      "score": 82,
+      "score": 83,
       "status": "released",
       "release_date": "2026-05-21",
       "url": "https://opencritic.com/game/20625/coffee-talk-tokyo",
-      "review_count": 17,
-      "recommend_pct": 83,
+      "review_count": 18,
+      "recommend_pct": 82,
       "note": null
     },
     "Reanimal": {
@@ -108,7 +108,7 @@
       "release_date": "2026-03-30",
       "url": "https://opencritic.com/game/20321/aether-iron",
       "review_count": 8,
-      "recommend_pct": 90,
+      "recommend_pct": 91,
       "note": null
     },
     "Dimhaven": {
