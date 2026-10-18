@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T17:32:19.802Z",
+  "lastUpdated": "2026-10-18T15:36:56.307Z",
   "players": {
     "you": {
       "name": "Heavyd814life",
@@ -33,12 +33,12 @@
   "scores": {
     "LEGO Batman: Legacy of the Dark Knight": {
       "opencritic_id": 19919,
-      "score": 83,
+      "score": 84,
       "status": "released",
       "release_date": "2026-05-22",
       "url": "https://opencritic.com/game/19919/lego-batman-legacy-of-the-dark-knight",
-      "review_count": 65,
-      "recommend_pct": 93,
+      "review_count": 66,
+      "recommend_pct": 92,
       "note": null
     },
     "Trails in the Sky Second Chapter": {
@@ -77,7 +77,7 @@
       "status": "released",
       "release_date": "2026-02-13",
       "url": "https://opencritic.com/game/19727/reanimal",
-      "review_count": 73,
+      "review_count": 77,
       "recommend_pct": 82,
       "note": null
     },
@@ -93,12 +93,12 @@
     },
     "The Blood of Dawnwalker": {
       "opencritic_id": 20499,
-      "score": 84,
+      "score": 83,
       "status": "released",
       "release_date": "2026-09-03",
       "url": "https://opencritic.com/game/20499/the-blood-of-dawnwalker",
-      "review_count": 64,
-      "recommend_pct": 94,
+      "review_count": 71,
+      "recommend_pct": 92,
       "note": null
     },
     "Aether & Iron": {
